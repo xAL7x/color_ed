@@ -1,5 +1,7 @@
 from tkinter import *
 from tkinter import colorchooser
+import os
+os.system("pip install pyperclip")
 import pyperclip
 color=Tk()
 color.title("color")
